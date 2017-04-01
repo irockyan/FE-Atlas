@@ -1,0 +1,11 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+#money{
+    margin: 30px auto;
+    width: 70%;
+    height: 20%;
+}
